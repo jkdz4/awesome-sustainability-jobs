@@ -569,12 +569,12 @@ jobs:
         long: 12.3668768
     review: https://www.kununu.com/de/optimax-energy1
     rating: 4.6
-  - name: DZ-4
-    website: https://www.dz-4.de/
+  - name: DZ4
+    website: https://www.dz4.de/
     jobs: https://dz4.jobs.personio.de/
     description: Anbieter für Solaranlagen zur Miete
-    remote: false
-    speculative: false
+    remote: true
+    speculative: true
     field: Renewable Energies
     geo:
       - country: Germany
